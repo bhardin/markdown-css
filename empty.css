@@ -1,0 +1,70 @@
+@charset "utf-8";
+
+/************************************
+ * empty.css
+ *
+ * Designed by: Brett Hardin
+ * http://bretthard.in
+ ***********************************/
+
+body {
+	margin:	    auto;
+	max-width:  680px;
+	background: #fefefe;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	
+}
+
+h1 {
+	
+}
+
+h2 {
+  
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+	
+}
+
+h6 {
+
+}
+
+hr {
+
+}
+
+p, blockquote, ul, ol, dl, li, table, pre {
+
+}
+
+code, pre {
+
+}
+
+code {
+
+}
+
+pre {
+
+}
+
+pre > code {
+
+}
+
+a, a:visited {
+
+}

@@ -1,0 +1,80 @@
+@charset "utf-8";
+
+/************************************
+ * empty.css
+ *
+ * Designed by: Brett Hardin
+ * http://bretthard.in
+ ***********************************/
+
+body {
+	margin:	    auto;
+	max-width:  680px;
+	background: #fefefe;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Alfa Slab One', cursive;
+	font-weight: 400;
+}
+
+h1 {
+	
+}
+
+h2 {
+  
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+	
+}
+
+h6 {
+
+}
+
+hr {
+
+}
+
+p, blockquote, ul, ol, dl, li, table, pre {
+	font-family: 'Alice', serif;
+}
+
+code, pre {
+	border-radius: 3px;
+	background-color: #EEEEEE;
+	color: inherit;
+}
+
+code {
+	border: 1px solid #EAEAEA;
+	margin: 0 2px;
+  padding: 0 10px;
+}
+
+pre {
+	border: 1px solid #CCCCCC;
+	margin: 10px 10px;
+	overflow: auto;
+	padding: 4px 8px;
+}
+
+pre > code {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+a, a:visited {
+
+}

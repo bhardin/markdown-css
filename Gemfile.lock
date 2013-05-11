@@ -1,0 +1,11 @@
+GEM
+  specs:
+    rake (10.0.4)
+    redcarpet (2.2.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rake
+  redcarpet
